@@ -1,12 +1,19 @@
-# React + Vite
+✅ React To-Do List App – Project Description
+The React To-Do List App is a dynamic task management application built with React.js. It allows users to efficiently manage daily tasks through a simple and intuitive user interface. This app demonstrates the power of React's component-based architecture, state management, and real-time UI updates.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+💡 Key Features:
 
-## Expanding the ESLint configuration
+➕ Add, edit, and delete tasks
+✅ Mark tasks as completed/incomplete
+🔁 Real-time UI updates using React state
+🧠 Data persistence using localStorage
+📱 Responsive design for mobile and desktop
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🛠 Tech Stack:
+
+-Frontend: React.js (Functional Components, Hooks)
+-Styling: Tailwind CSS
+-State Management: useState, useEffect
